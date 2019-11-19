@@ -1,6 +1,6 @@
 {
 	"info": {
-		"_postman_id": "8a1500b0-6953-49ae-8ca3-fa69cb82c532",
+		"_postman_id": "c2236772-456d-4137-8da3-bbdd0163b116",
 		"name": "go-blockchain",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
 	},
@@ -19,7 +19,7 @@
 				],
 				"body": {
 					"mode": "raw",
-					"raw": "{\n\t\"playername\":\"Gmi2\",\n\t\"matchId\":\"NlEn\",\n\t\"teamonescore\": 3,\n\t\"teamtwoscore\": 1\n}",
+					"raw": "{\n\t\"votername\":\"72861219\",\n\t\"candidateid\":\"2\",\n\t\"candidatename\": \"PPK2\"\n}",
 					"options": {
 						"raw": {
 							"language": "json"
@@ -27,14 +27,14 @@
 					}
 				},
 				"url": {
-					"raw": "http://localhost:9002/bet/broadcast",
+					"raw": "http://localhost:9002/vote/broadcast",
 					"protocol": "http",
 					"host": [
 						"localhost"
 					],
 					"port": "9002",
 					"path": [
-						"bet",
+						"vote",
 						"broadcast"
 					]
 				}
