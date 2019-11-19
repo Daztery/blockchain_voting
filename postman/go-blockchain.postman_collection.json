@@ -115,7 +115,7 @@
 			"response": []
 		},
 		{
-			"name": "consensus node 9001",
+			"name": "consensus node 9002",
 			"request": {
 				"method": "GET",
 				"header": [],
@@ -134,7 +134,7 @@
 			"response": []
 		},
 		{
-			"name": "get blockchain 9001",
+			"name": "get blockchain 9002",
 			"request": {
 				"method": "GET",
 				"header": [],
