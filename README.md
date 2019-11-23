@@ -1,3 +1,10 @@
+---
+# IMPORTANTE!
+El informe final del trabajo se encuentra dentro de la carpeta <a href="https://github.com/vot4me/blockchain_voting/tree/master/Informe%20Final">Informe final</a>.
+
+---
+
+
 # Vote 4 Me - EVoting based in blockchain
 ---
 
