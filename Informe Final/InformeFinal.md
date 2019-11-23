@@ -71,7 +71,6 @@ En contraste, un sistema de votación blockchain ofrece resultados inmediatos. U
 #### Tablero de Github Projects para el módulo blockchain de Vote4Me 
 <img src="./res/blockchainTable.PNG">
 <br>
-<br>
 
 ### Estimaciones de esfuerzo
 <div style="text-align: justify;">Para obtener la estimación de esfuerzo de cada uno de los integrantes del equipo en el desarrollo del proyecto, empleamos el conteo de contribuciones o "commits" de cada uno de los miembros en los 3 módulos de Vote4Me existentes: </div>
@@ -86,7 +85,6 @@ En contraste, un sistema de votación blockchain ofrece resultados inmediatos. U
 
 #### Contribuciones en el módulo web
 <img src="./res/web.PNG">
-<br>
 <br>
 
 ### Plan de comunicación y colaboración usando nueva tecnología
@@ -103,8 +101,18 @@ En contraste, un sistema de votación blockchain ofrece resultados inmediatos. U
 
 ---
 ## Capítulo 4: Implementación de solución
+<div style="text-align: justify;">Para realiazar la implementación completa del proyecto, el equipo decidió dividir el trabajo en 3 módulos distintos. Cada uno de estos módulos fue implementado en un repositorio diferente dentro del controlador de versiones Github, mediante el cúal conseguimos llevar un mejor control de los avances y problemas del desarrollo.
+
+Los módulos que se implementaron fueron: 
+</div> 
 <img src="./res/repos.PNG">
 <br>
+<div style="text-align: justify;">En el repositorio de face recognition, se trabajó la implementacion del módulo de reconocimiento facial para la aplicación Vote4Me. Este fue implementado utilizando python 3.5 con Tensorflow, OpenCV, Facenet y un modelo pre entrenado para el reconocimiento de imágenes.
+
+En el repositorio de blockchain voting se trabajó principalmente la implementación del blockchain para la el manejo de los votos de cada uno de los usuarios. Esto se desarrolló de modo que sea posible utilizarlo de manera distribuida, considerando un nuevo nodo para cada uno de los usuarios conectados para realizar su voto. Esto fue implementado utilizando el lenguaje Go.
+
+Por último, en repositorio de voting web contine la implementación de la interfaz web con una aplicación simple en Nodejs. Aqui se muestran a los votantes los diferentes candidatos que podrán seleccionar para realizar su voto, luego de haber sido identificados con el reconocimiento facial. 
+</div> 
 
 ----
 ## Conclusiones
