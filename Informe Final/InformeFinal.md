@@ -15,15 +15,15 @@
 ## Índice
 ---
 ●	[Objetivo del Estudiante (Student Outcome)](#Objetivo-del-Estudiante-(Student-Outcome)) </br>
-●	[Capítulo 1: Presentación](#Capítulo-1:-Presentación)</br>
-●	[Capítulo 2: Marco](#Capítulo-2:-Marco)</br>
+●	[Capítulo 1: Presentación](#Capítulo-1-Presentación)</br>
+●	[Capítulo 2: Marco](#Capítulo-2-Marco)</br>
 &nbsp;&nbsp;&nbsp;&nbsp;o	[Marco teórico](#Marco-teórico)</br>
 &nbsp;&nbsp;&nbsp;&nbsp;o	[Contexto del proyecto, industria de desarrollo](#Contexto-del-proyecto,-industria-de-desarrollo)</br>
-●	[Capítulo 3: Gestión](#Capítulo-3:-Gestión)</br>
+●	[Capítulo 3: Gestión](#Capítulo-3-Gestión)</br>
 &nbsp;&nbsp;&nbsp;&nbsp;o	[Evidencia de trabajo multidisciplinario](#Evidencia-de-trabajo-multidisciplinario)</br>
 &nbsp;&nbsp;&nbsp;&nbsp;o	[Estimaciones de esfuerzo](#Estimaciones-de-esfuerzo)</br>
 &nbsp;&nbsp;&nbsp;&nbsp;o	[Plan de comunicación y colaboración usando nueva tecnología](#Plan-de-comunicación-y-colaboración-usando-nueva-tecnología)</br>
-●	[Capítulo 4: Implementación de solución](#Capítulo-4:-Implementación-de-solución)</br>
+●	[Capítulo 4: Implementación de solución](#Capítulo-4-Implementación-de-solución)</br>
 ●	[Conclusiones](#Conclusiones)</br>
 ●	[Recomendaciones](#Recomendaciones)</br>
 ●	[Glosario](#Glosario)</br>
